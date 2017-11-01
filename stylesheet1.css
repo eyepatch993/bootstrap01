@@ -1,0 +1,18 @@
+.brand, .global, .tools{
+    min-height: 80px;
+    border: 1px solid black;
+}
+.feat, .call{margin-top: 70px;
+    min-height: 50px;border: 1px solid black;
+}
+.ad{margin-top: 20px;
+    min-height: 100px;border: 1px solid black;
+}
+.p1{
+    margin-top: 20px;
+    min-height: 400px;border: 1px solid black;
+}
+.foot{
+    margin-top: 20px;
+    min-height: 100px;border: 1px solid black;
+}
